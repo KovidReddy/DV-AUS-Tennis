@@ -1,0 +1,145 @@
+{
+    "nodes": [
+        {
+            "id": "Florian Mayer",
+            "winner": "no"
+        },
+        {
+            "id": "David Ferrer",
+            "winner": "no"
+        },
+        {
+            "id": "Rafael Nadal",
+            "winner": "no"
+        },
+        {
+            "id": "Stanislas Wawrinka",
+            "winner": "yes"
+        },
+        {
+            "id": "Roberto Bautista-Agut",
+            "winner": "no"
+        },
+        {
+            "id": "Novak Djokovic",
+            "winner": "no"
+        },
+        {
+            "id": "Jo-Wilfried Tsonga",
+            "winner": "no"
+        },
+        {
+            "id": "Tomas Berdych",
+            "winner": "no"
+        },
+        {
+            "id": "Kei Nishikori",
+            "winner": "no"
+        },
+        {
+            "id": "Andy Murray",
+            "winner": "no"
+        },
+        {
+            "id": "Stephane Robert",
+            "winner": "no"
+        },
+        {
+            "id": "Fabio Fognini",
+            "winner": "no"
+        },
+        {
+            "id": "Tommy Robredo",
+            "winner": "no"
+        },
+        {
+            "id": "Kevin Anderson",
+            "winner": "no"
+        },
+        {
+            "id": "Roger Federer",
+            "winner": "no"
+        },
+        {
+            "id": "Grigor Dimitrov",
+            "winner": "no"
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 2,
+            "result": "6-3 6-2 3-6 6-3"
+        },
+        {
+            "source": 2,
+            "target": 14,
+            "result": "7-6(4) 6-3 6-3"
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "result": "6-3 6-7(1) 7-6(3) 7-6(4)"
+        },
+        {
+            "source": 2,
+            "target": 15,
+            "result": "3-6 7-6(3) 7-6(7) 6-2"
+        },
+        {
+            "source": 14,
+            "target": 9,
+            "result": "6-3 6-4 6-7(6) 6-3"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "result": "2-6 6-4 6-2 3-6 9-7"
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "result": "6-1 6-4 2-6 6-4"
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "result": "6-1 6-2 6-7(6) 6-2"
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "result": "7-6(3) 7-5 7-6(3)"
+        },
+        {
+            "source": 14,
+            "target": 6,
+            "result": "6-3 7-5 6-4"
+        },
+        {
+            "source": 15,
+            "target": 4,
+            "result": "6-3 3-6 6-2 6-4"
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "result": "6-3 6-0 6-2"
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "result": "6-3 7-6(3) 7-6(5)"
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "result": "6-2 6-2 6-3"
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "result": "6-7(5) 7-5 6-2 6-1"
+        }
+    ]
+}
